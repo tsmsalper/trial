@@ -1,0 +1,1 @@
+from .myfirstmodule import myfirstfunction
